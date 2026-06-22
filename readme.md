@@ -1,4 +1,4 @@
-# Wi-Fi Stability Tester 📡
+# Packet Loss Test 📡
 
 Um script em Python leve e direto ao ponto para monitorar a estabilidade da sua conexão com o roteador (ou qualquer outro IP). Ele dispara pacotes de ping em alta frequência para identificar perda de pacotes e picos de latência (lag spikes), gerando um log detalhado em `.csv` ao final do teste.
 
